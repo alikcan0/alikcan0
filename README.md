@@ -1,4 +1,4 @@
-### Merhaba
+## 👋 Merhaba
 
 Elektrik-Elektronik Mühendisliği öğrencisiyim. Yazılım, bilgisayarlı görü (OpenCV) ve görüntü işleme teknolojileri üzerine çalışıyorum.
 
